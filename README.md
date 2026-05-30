@@ -1,5 +1,5 @@
 # Linux
 
 ## Настройка мониторов
-> Arch Linux \n
+> Arch Linux </br>
 > Hyperland
